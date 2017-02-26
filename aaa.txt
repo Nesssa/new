@@ -1,6 +1,2 @@
 i am a
-<<<<<<< HEAD
-fuck
-=======
-fuck
->>>>>>> branch3
+shit
