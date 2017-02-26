@@ -1,2 +1,6 @@
 i am a
-you
+<<<<<<< HEAD
+fuck
+=======
+fuck
+>>>>>>> branch3
